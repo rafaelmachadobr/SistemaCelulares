@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaCelulares", "SistemaCelulares.csproj", "{959EDF17-334C-4FAA-A9EB-D7371B76173E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959EDF17-334C-4FAA-A9EB-D7371B76173E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959EDF17-334C-4FAA-A9EB-D7371B76173E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959EDF17-334C-4FAA-A9EB-D7371B76173E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959EDF17-334C-4FAA-A9EB-D7371B76173E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
